@@ -11,7 +11,7 @@ used for testing.
 
 The following secrets must be defined on the project:
 
-| Name                          | Description                                                                    |
+| novo                          | Description                                                                    |
 | ----------------------------- | ------------------------------------------------------------------------------ |
-| `FBTOOLS_TARGET_PROJECT`      | The project ID that should be used for integration tests                       |
+| `FBTOOLS_TARGET_PROJECT`      |  project id c539f8ed6df9cb48e6fc                        |
 | `service_account_json_base64` | A base64-encoded service account JSON file with access to the selected project |
